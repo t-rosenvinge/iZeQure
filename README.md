@@ -1,5 +1,6 @@
-[![iZeQure's GitHub stats](https://github-readme-stats.vercel.app/api?username=izequre&theme=onedark&show_icons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izequre&theme=onedark&show_icons=true)]()
+[![iZeQure's GitHub stats](https://github-readme-stats.vercel.app/api?username=izequre&theme=onedark&show_icons=true)](https://github-readme-stats.vercel.app/api?username=izequre&theme=onedark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izequre&theme=onedark&show_icons=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=izequre&theme=onedark&show_icons=true)
 
 
 <!--
