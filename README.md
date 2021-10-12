@@ -4,7 +4,7 @@
 
 <!-- Repo Stats Display -->
 [![Job Agent Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=JobAgent&theme=onedark&show_owner=false)](https://github.com/iZeQure/JobAgent) 
-[![TQC-Development Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=TQC-Development&theme=onedark&show_owner=false)](https://github.com/iZeQure/TQC-Development)
+[![TQC Solutions Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=TQC-Solutions&theme=onedark&show_owner=false)](https://github.com/iZeQure/TQC-Development)
 
 [![Chat Server Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=ChatServerProject&theme=onedark&show_owner=false)](https://github.com/iZeQure/ChatServerProject) 
 [![Fremtidens Bil API Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=Fremtidens-Bil-API&theme=onedark&show_owner=false)](https://github.com/iZeQure/Fremtidens-Bil-API)
