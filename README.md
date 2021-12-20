@@ -1,19 +1,50 @@
 <!-- Some Stats Display -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izequre&hide=CSS,SCSS,HTML,Javascript,Dockerfile,ASP.NET&theme=onedark&show_icons=true&langs_count=10)
-![iZeQure's GitHub stats](https://github-readme-stats.vercel.app/api?username=izequre&theme=onedark&show_icons=true?count_private=true) 
+<div style="margin-bottom: 5px;">
+  <a href="#top-langs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZeQure&hide=CSS,SCSS,HTML,Javascript,Dockerfile&theme=onedark&show_icons=true&langs_count=10&layout=compact" />
+  </a>
+
+  <a href="#readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=izequre&theme=onedark&show_icons=true?count_private=true" />
+  </a>
+</div>
 
 <!-- Repo Stats Display -->
-[![Job Agent Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=JobAgent&theme=onedark&show_owner=false)](https://github.com/iZeQure/JobAgent) 
-[![TQC Solutions Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=TQC-Solutions&theme=onedark&show_owner=false)](https://github.com/iZeQure/TQC-Development)
+<div style="margin-bottom: 5px;">
+  <a href="https://github.com/iZeQure/JobAgent">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=JobAgent&theme=onedark&show_owner=false" />
+  </a>
+  <a href="https://github.com/iZeQure/TQC-Development">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=TQC-Solutions&theme=onedark&show_owner=false" />
+  </a>
+</div>
 
-[![Chat Server Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=ChatServerProject&theme=onedark&show_owner=false)](https://github.com/iZeQure/ChatServerProject) 
-[![Fremtidens Bil API Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=Fremtidens-Bil-API&theme=onedark&show_owner=false)](https://github.com/iZeQure/Fremtidens-Bil-API)
+<div style="margin-bottom: 5px;">
+  <a href="https://github.com/iZeQure/ChatServerProject">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=ChatServerProject&theme=onedark&show_owner=false" />
+  </a>
+  <a href="https://github.com/iZeQure/Fremtidens-Bil-API">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=Fremtidens-Bil-API&theme=onedark&show_owner=false" />
+  </a>
+</div>
 
-[![Solar System Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=Solar-System&theme=onedark&show_owner=false)](https://github.com/iZeQure/Solar-System) 
-[![Fremtidens Bil Website Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=Fremtidens-Bil-Website&theme=onedark&show_owner=false)](https://github.com/iZeQure/Fremtidens-Bil-Website)
+<div style="margin-bottom: 5px;">
+  <a href="https://github.com/iZeQure/Solar-System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=Solar-System&theme=onedark&show_owner=false" />
+  </a>
+  <a href="https://github.com/iZeQure/Fremtidens-Bil-Website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=Fremtidens-Bil-Website&theme=onedark&show_owner=false" />
+  </a>
+</div>
 
-[![Nand 2 Tetris Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=nand-2-tetris&theme=onedark&show_owner=false)](https://github.com/iZeQure/nand-2-tetris)
-[![Check In System Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=CheckInSystem&theme=onedark&show_owner=false)](https://github.com/iZeQure/CheckInSystem)
+<div style="margin-bottom: 5px;">
+  <a href="https://github.com/KennethIAm/Fisk-DanskAkvakultur">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennethIAm&repo=Fisk-DanskAkvakultur&theme=onedark&show_owner=false" />
+  </a>
+  <a href="https://github.com/iZeQure/CheckInSystem">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=CheckInSystem&theme=onedark&show_owner=false" />
+  </a>
+</div>
 <!--
 **iZeQure/iZeQure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
